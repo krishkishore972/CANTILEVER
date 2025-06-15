@@ -16,6 +16,8 @@
 ---
 npm install
 npm run preview
+
+---
 Made with ❤️ by kishore
 
 
