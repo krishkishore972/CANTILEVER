@@ -14,8 +14,10 @@
 - 🧹 ESLint + Prettier (code quality)
 
 ---
-npm install
-npm run preview
+**npm install**
+**npm run build**
+**npm run preview**
+
 
 ---
 Made with ❤️ by kishore
